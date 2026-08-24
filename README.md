@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello there 👋
 
-<!--
-**BaranovTim/BaranovTim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Timofei (Tim)**, and I am **18 years old**.
 
-Here are some ideas to get you started:
+I study **Applied Artificial Intelligence at Vilnius Tech**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am working on integrating **multi-agent orchestration systems** into my projects.
+
+## Overall
+
+I have experience with programming languages and technologies including:
+
+* **Python**
+* **C#**
+* **Pascal**
+* **HTML & CSS**
+* **SQL**
+* **PostgreSQL**
+* **Git**
+* **APIs**
+* **Object-Oriented Programming (OOP)**
+
+I also have experience with **Shopify and dropshipping**, as well as a background in **crypto trading**.
+
+## Sports
+
+Outside of programming, I am involved in:
+
+* 🎾 **Tennis** — professional player
+* 🏐 **Volleyball** — skilled player
+* ♟️ **Chess** — proficient player
