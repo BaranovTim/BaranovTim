@@ -7,25 +7,14 @@ I study **Applied Artificial Intelligence at Vilnius Tech**.
 Currently, I am working on integrating **multi-agent orchestration systems** into my projects.
 
 ## Overall
-
 I have experience with programming languages and technologies including:
 
-* **Python**
-* **C#**
-* **Pascal**
+* **Python with Django** | **C#** | **Pascal**
 * **HTML & CSS**
-* **SQL**
-* **PostgreSQL**
+* **SQL** | **PostgreSQL**
 * **Git**
-* **APIs**
-* **Object-Oriented Programming (OOP)**
+* **APIs** | **Object-Oriented Programming (OOP)**
 
 I also have experience with **Shopify and dropshipping**, as well as a background in **crypto trading**.
 
-## Sports
-
-Outside of programming, I am involved in:
-
-* 🎾 **Tennis** — professional player
-* 🏐 **Volleyball** — skilled player
-* ♟️ **Chess** — proficient player
+Oh, and I need a sponsor for the amount of coffees I drink while I work 
